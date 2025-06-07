@@ -10,8 +10,7 @@ This repository contains the final project for my *Text Mining* course in the Ma
 
 This repository includes the following files:
 
-- `yelp_text_mining.html`: The rendered HTML version of the final report.
-  - 📄 **Open this file to explore the results without running any code.**
+- `yelp_text_mining.html`: The rendered HTML version of the final report. ⭐️ **Open this file to explore the results without running any code.**
 - `yelp_text_mining.Rmd`: The main R Markdown script with code, analysis, and output.
 - `yelp_sampled_reviews.csv`: A small sample of Yelp reviews used for the analysis.
 
